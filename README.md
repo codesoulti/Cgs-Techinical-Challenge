@@ -3,7 +3,7 @@ Desafio - Techinical Challenge
 
 # Executando a aplicação
 
-1 - Via console application executando o projeto console.
+1 - Via console application executando o projeto console. <br>
 2 - Via swagger, configurando o set start project para o projeto Cgs.Technical.Challenge.HttpApi.Host, que descreve a API implementada.
 
 # Tecnologias utilizadas
