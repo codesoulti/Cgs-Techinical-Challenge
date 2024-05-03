@@ -1,2 +1,4 @@
 # Cgs-Technical-Challenge
-Desafio Carglass - Techinical Challenge
+Desafio - Techinical Challenge
+
+# Executando a aplicação usando o Docker
